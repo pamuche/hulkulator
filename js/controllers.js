@@ -43,12 +43,19 @@ angular.module('starter.controllers', [])
 
 .controller('PlaylistsCtrl', function($scope) {
   $scope.playlists = [
-    { title: 'Reggae', id: 1 },
-    { title: 'Chill', id: 2 },
-    { title: 'Dubstep', id: 3 },
-    { title: 'Indie', id: 4 },
-    { title: 'Rap', id: 5 },
-    { title: 'Cowbell', id: 6 }
+    { title: 'Salatinversion', id: 1 },
+    { title: 'Froschmittelwert', id: 2 },
+    { title: 'Baumintegral', id: 3 },
+    { title: 'Hanffourier', id: 4 },
+    { title: 'Grasswurzel', id: 5 },
+    { title: 'Krötenpotenz', id: 7 },
+    { title: 'AgressivEuler', id: 8 },
+    { title: 'GarausGauß', id: 9 },
+    { title: 'ZwangsFakultät', id: 10 },
+    { title: 'Püthagoras', id: 11 },
+    { title: 'Fibugnocci', id: 12 },
+    { title: 'Sekundärzahlzerlegung', id: 13 },
+    { title: 'Berschnulli', id: 14 }
   ];
 })
 
