@@ -1,2 +1,0 @@
-# hulkulator
-Ionic Test
